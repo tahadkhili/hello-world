@@ -1,2 +1,6 @@
 # hello-world
-First repository
+
+Hi!
+
+Taha here, i like robotics and i'm interested in arduino.
+So i want some help and advice to learn.
